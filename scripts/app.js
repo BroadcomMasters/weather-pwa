@@ -263,8 +263,8 @@
    * discussion.
    */
   var initialWeatherForecast = {
-    key: '2459115',
-    label: 'New York, NY',
+    key: '2420501',
+    label: 'Hesperia, CA',
     created: '2016-07-22T01:00:00Z',
     channel: {
       astronomy: {
