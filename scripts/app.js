@@ -276,16 +276,16 @@
           text: "Windy",
           date: "Thu, 21 Jul 2016 09:00 PM EDT",
           temp: 56,
-          code: 24
+          code: 30
         },
         forecast: [
-          {code: 44, high: 86, low: 70},
-          {code: 44, high: 94, low: 73},
-          {code: 4, high: 95, low: 78},
-          {code: 24, high: 75, low: 89},
-          {code: 24, high: 89, low: 77},
-          {code: 44, high: 92, low: 79},
-          {code: 44, high: 89, low: 77}
+          {code: 30, high: 86, low: 70},
+          {code: 30, high: 94, low: 73},
+          {code: 25, high: 95, low: 78},
+          {code: 30, high: 75, low: 89},
+          {code: 30, high: 89, low: 77},
+          {code: 25, high: 92, low: 79},
+          {code: 30, high: 89, low: 77}
         ]
       },
       atmosphere: {
